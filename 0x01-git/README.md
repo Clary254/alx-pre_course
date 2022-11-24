@@ -1,1 +1,1 @@
-This is my first github project
+Clarence Songore is a Software engineer based in Nairobi,Kenya
